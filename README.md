@@ -9,6 +9,7 @@
 - [Load Tables](#load-tables)
 - [Analysis Queries](#analysis-queries)
 - [Actionable Recommendations](#actionable-recommendations)
+- [Download](#download)
 
 ### Project Overview
 This project analyzes sales, customer, and product data for a fictional retail company using PostgreSQL. The goal is to derive meaningful insights that can guide inventory, marketing, and customer engagement strategies.  The dataset includes:
@@ -213,4 +214,7 @@ Design loyalty programs for dominant segments. Target smaller segments with enga
 
 #### High-Value Customers:
 Treat as VIPs — personalized discounts, early access to new products. Retarget 
+
+### Download
+[Download the SQL scripts here:](./Retail_store)
 
