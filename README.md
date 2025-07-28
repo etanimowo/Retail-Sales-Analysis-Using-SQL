@@ -216,5 +216,5 @@ Design loyalty programs for dominant segments. Target smaller segments with enga
 Treat as VIPs — personalized discounts, early access to new products. Retarget 
 
 ### Download
-[Download the SQL scripts here:](./Retail_store)
+[Download the SQL scripts here:](./Retail_store.sql)
 
