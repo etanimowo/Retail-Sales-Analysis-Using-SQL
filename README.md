@@ -11,6 +11,7 @@
 - [Actionable Recommendations](#actionable-recommendations)
 - [Download](#download)
 
+---
 ### Project Overview
 This project analyzes sales, customer, and product data for a fictional retail company using PostgreSQL. The goal is to derive meaningful insights that can guide inventory, marketing, and customer engagement strategies.  The dataset includes:
 - Sales transactions with dates, amounts, and store/product/customer IDs.
@@ -218,3 +219,10 @@ Treat as VIPs — personalized discounts, early access to new products. Retarget
 ### Download
 [Download the SQL scripts here:](./Retail_store.sql)
 
+---
+### Meet the Analyst:
+👋 I’m **Sunday Tanimowo**, an Electrical Engineering grad turned Data Analyst passionate about solving problems with data. I’ve worked across retail, e-commerce, HR, healthcare, and finance using Excel, SQL, Power BI, and Python to turn raw data into actionable insights.  I connect analysis with business goals to drive growth and efficiency.
+
+Let’s connect — whether it’s for collaboration, analytics support, or a data-driven chat. 
+
+[LinkedIn](https://www.linkedin.com/in/sundaytanimowo) | [Portfolio](https://tinyurl.com/aafvks7n)
